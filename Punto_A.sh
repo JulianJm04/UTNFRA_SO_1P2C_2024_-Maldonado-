@@ -1,3 +1,4 @@
 #!/bin/bash
-# Crear estructura de directorios A, B, C con subdirectorios 1, 2, 3
-sudo mkdir -p /Estructura_Simetrica/{A,B,C}/{1,2,3}
+# Crear la estructura de directorios con alumnos y profesores
+sudo mkdir -p /Examenes-UTN/{alumno_1/alumno_1/parcial_{1,2,3},alumno_2/alumno_2/parcial_{1,2,3},alumno_3/alumno_3/parcial_{1,2,3},profesores}
+
